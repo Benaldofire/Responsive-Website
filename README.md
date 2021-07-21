@@ -9,7 +9,7 @@ general outline - currently in progress.
 - Give users the ability to sort and select the category of games they wish to view. 
 - Users will be able to view samples of the video game they want to know about.
 
-  in detail
-  -- design a responsive website and optimize it for both mobile and desktop
-  -- use an API that will return a list of video games
+in detail
+- design a responsive website and optimize it for both mobile and desktop
+- use an API that will return a list of video games
  
