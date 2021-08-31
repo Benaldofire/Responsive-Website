@@ -1,7 +1,7 @@
 # Responsive-Website
 
 Attempt to create a responsive website. 
-Website is called GameArena (temporary name), which will give users the opportunity to find out about current and upcoming video games. 
+Website is called Game Domain (temporary name), which will give users the opportunity to find out about current and upcoming video games. 
 
 
 general outline - currently in progress.
